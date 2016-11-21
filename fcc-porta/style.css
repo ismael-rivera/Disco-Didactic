@@ -11,16 +11,7 @@
   .container {
       padding: 20px;
   }
-  .person {
-      border: 10px solid transparent;
-      margin-bottom: 25px;
-      width: 80%;
-      height: 80%;
-      opacity: 0.7;
-  }
-  .person:hover {
-      border-color: #f1f1f1;
-  }
+  
   .carousel-inner img {
       -webkit-filter: grayscale(90%);
       filter: grayscale(50%); /* make all photos black and white */
@@ -41,23 +32,23 @@
   }
   .bg-1 h3 {color: #fff;}
   .bg-1 p {font-style: italic;}
-  .list-group-item:first-child {
-      border-top-right-radius: 0;
-      border-top-left-radius: 0;
+  
+  #mwork{
+    padding-top: 40px;
+    padding-bottom: 60px;
   }
-  .list-group-item:last-child {
-      border-bottom-right-radius: 0;
-      border-bottom-left-radius: 0;
+  
+  a.thumbnail-mwork{
+    border: 1px solid #ebebeb;
+    display: block;
+    width: 100%;
+    height: 200px;
   }
-  .thumbnail {
-      padding: 0 0 15px 0;
-      border: none;
-      border-radius: 0;
+
+  .mrow{
+    margin-top: 40px;
   }
-  .thumbnail p {
-      margin-top: 15px;
-      color: #555;
-  }
+  
   .btn {
       padding: 10px 20px;
       background-color: #333;
@@ -65,12 +56,16 @@
       border-radius: 0;
       transition: .2s;
   }
+  .btn-mywork{
+    width: 380px; 
+    height: 260px;  
+  }
   .btn:hover, .btn:focus {
       border: 1px solid #333;
       background-color: #fff;
       color: #000;
   }
-  .modal-header, h4, .close {
+  /*.modal-header, h4, .close {
       background-color: #333;
       color: #fff !important;
       text-align: center;
@@ -78,7 +73,7 @@
   }
   .modal-header, .modal-body {
       padding: 40px 50px;
-  }
+  }*/
   .nav-tabs li a {
       color: #777;
   }
@@ -156,6 +151,10 @@
   #tech-10{}
   #tech-11{}
   #tech-12{}
+
+  .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    background-color: transparent !important;
+  }
 
 
 
