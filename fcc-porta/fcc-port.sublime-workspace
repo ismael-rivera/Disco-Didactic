@@ -1,0 +1,726 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"Mar",
+				"margin-right"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"dive_",
+				"dive_03"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"fra",
+				"frame3"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"content",
+				"content-services"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"foot",
+				"footer-nav"
+			],
+			[
+				"jumbotron",
+				"jumbotron-wrapper"
+			],
+			[
+				"css",
+				"cssdev"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"he",
+				"header-bg"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"wid",
+				"widget-title"
+			],
+			[
+				"su",
+				"sub-heading"
+			],
+			[
+				"ho",
+				"home_index"
+			],
+			[
+				"sectio",
+				"section_home"
+			],
+			[
+				"be",
+				"bebas_neueregular"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"right",
+				"right-footer-area"
+			],
+			[
+				"section",
+				"section_blog"
+			],
+			[
+				"g",
+				"indigo-gray"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"grid",
+				"grid001"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"Fl",
+				"FlxG	flixel"
+			],
+			[
+				"FL",
+				"FlxG	flixel"
+			],
+			[
+				"p",
+				"p	padding"
+			],
+			[
+				"indigo-gray",
+				"indigo-gray-hover"
+			],
+			[
+				"menu_",
+				"menu_font"
+			],
+			[
+				"spacer",
+				"spacer_wrapper_home"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"z",
+				"z-index"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/Vagrantfile",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/html/index.nginx-debian.html",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/provision.sh",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/provision.sh",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/package.json",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/Vagrantfile",
+		"/Users/ismaelrivera/Desktop/Carta Natal Carla Debastiani/Dignidades esenciales_files/bootstrap8.css",
+		"/Users/ismaelrivera/Desktop/Carta Natal Carla Debastiani/Dignidades esenciales.html",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/application/views/view_signup.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/application/views/view_projectcreate.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/application/views/global/view_html_header.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/application/views/global/view_header.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/application/views/global/view_session.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/application/views/view_home.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/application/config/config.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/application/config/constants.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/application/config/autoload.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/application/config/development/database.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/application/config/development/database_old.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/application/libraries/Doctrine.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/public_html/inc/dev/css/libs/bootstrap.css",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/public_html/inc/dev/css/header.css",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/application/views/view_project_listing.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/application/views/view_howitworks.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stg1/header.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/header.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/browse-projects.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/assets/css/site.css",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/footer.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/index.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/assets/css/bootstrap-sandstone.css",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/gitignore",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/stgBE-FA/composer.json",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/gitignore",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/register.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/assets/sass/site.scss",
+		"/Users/ismaelrivera/Sites/testing.speggo/freelancerarena/application/views/global/view_top_nav.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/assets/sass/basefiles/_base.scss",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/projects.html",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/jobs.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/assets/js/jobs.js",
+		"/Users/ismaelrivera/Sites/git/gaucho_html5_template/assets/sass/basefiles/__spritesheet_reference.scss",
+		"/Users/ismaelrivera/Desktop/bootstrap/config.json",
+		"/Users/ismaelrivera/Sites/testing.speggo/freelancerarena/application/views/global/view_header.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/Gruntfile.js",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/assets/sass/basefiles/_colors.scss",
+		"/Users/ismaelrivera/Sites/testing.speggo/freelancerarena/application/views/view_howitworks.php",
+		"/Users/ismaelrivera/Sites/testing.speggo/freelancerarena/application/views/view_home.php",
+		"/Users/ismaelrivera/Sites/testing.speggo/freelancerarena/application/views/view_help.php",
+		"/Users/ismaelrivera/Sites/testing.speggo/freelancerarena/application/views/view_emailsent.php",
+		"/Users/ismaelrivera/Sites/testing.speggo/freelancerarena/public_html/inc/dev/sass/header.scss",
+		"/Users/ismaelrivera/Sites/testing.speggo/freelancerarena/public_html/inc/dev/sass/styles.scss",
+		"/Users/ismaelrivera/Sites/testing.speggo/freelancerarena/public_html/inc/dev/sass/footer.scss",
+		"/Users/ismaelrivera/Sites/testing.speggo/freelancerarena/public_html/inc/dev/sass/global.scss",
+		"/Users/ismaelrivera/Sites/testing.speggo/freelancerarena/public_html/inc/dev/sass/main.scss",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/assets/sass/site.sass",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/assets/sass/print.scss",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/config.rb",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/login.php",
+		"/Users/ismaelrivera/Sites/testing.speggo/freelancerarena/application/config/config.php",
+		"/Users/ismaelrivera/Sites/testing.speggo/freelancerarena/Gruntfile.js",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/assets/sass/_base.scss",
+		"/Users/ismaelrivera/Sites/mysites/legend_portfolio/assets/sass/basefiles/_base.scss",
+		"/Users/ismaelrivera/Sites/mysites/awesomeblogger/Gruntfile.js",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/Vagrantfile",
+		"/Applications/XAMPP/xamppfiles/etc/httpd.conf",
+		"/Applications/XAMPP/xamppfiles/etc/extra/httpd-vhosts.conf",
+		"/Users/ismaelrivera/Sites/mysites/reactjs_template/Gruntfile.js",
+		"/Users/ismaelrivera/Sites/mysites/crowdorchid/index.php",
+		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/AwesomeBlogger - \"Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible.\" Francis of Assisi.html",
+		"/Users/ismaelrivera/Sites/mysites/reactjs_template/index.php",
+		"/Users/ismaelrivera/Sites/mysites/reactjs_template/index2.php",
+		"/Users/ismaelrivera/Sites/mysites/awesomeblogger/public_html/wp-content/themes/basix/inline.css",
+		"/Users/ismaelrivera/Sites/mysites/awesomeblogger/public_html/wp-content/themes/basix/style.css",
+		"/Users/ismaelrivera/Sites/mysites/awesomeblogger/public_html/wp-content/themes/basix/index.php",
+		"/Users/ismaelrivera/Sites/mysites/awesomeblogger/public_html/wp-content/themes/basix/single.php",
+		"/Users/ismaelrivera/Sites/mysites/awesomeblogger/public_html/wp-content/themes/basix/template-page-right-sidebar.php",
+		"/Users/ismaelrivera/Sites/mysites/awesomeblogger/public_html/wp-content/themes/basix/template-home.php",
+		"/Users/ismaelrivera/Sites/mysites/awesomeblogger/public_html/wp-content/themes/basix/inc/widgets/basix-newsletter-widget.php",
+		"/Users/ismaelrivera/Sites/mysites/awesomeblogger/public_html/wp-content/themes/basix/page.php",
+		"/Users/ismaelrivera/Sites/mysites/awesomeblogger/public_html/wp-content/themes/basix/functions.php",
+		"/Users/ismaelrivera/Sites/mysites/reactjs_template/app.bundle.js",
+		"/Users/ismaelrivera/Sites/mysites/reactjs_template/webpack.config.js",
+		"/Users/ismaelrivera/Sites/mysites/reactjs_template/package.json",
+		"/Users/ismaelrivera/Sites/mysites/reactjs_template/assets/js/app.js",
+		"/Users/ismaelrivera/Sites/mysites/reactjs_template/assets/js/cats.js",
+		"/Users/ismaelrivera/Sites/mysites/reactjs_template/assets/js/main.js",
+		"/Users/ismaelrivera/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/ismaelrivera/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/ismaelrivera/Sites/mysites/reactjs_template/assets/js/jquery.min.js",
+		"/Users/ismaelrivera/Sites/mysites/reactjs_template/assets/js/module2.js",
+		"/Users/ismaelrivera/Desktop/Carta Patricia Pacheco/Dignidades esenciales _ Astrología online_02_files/bootstrap8.css",
+		"/Users/ismaelrivera/Desktop/Carta Patricia Pacheco/Dignidades esenciales _ Astrología online_02.html",
+		"/Users/ismaelrivera/Desktop/Carta Claudia/Dignidades esenciales _ Astrología online._files/bootstrap8.css",
+		"/Users/ismaelrivera/Desktop/Carta Claudia/Dignidades esenciales _ Astrología online..html",
+		"/Users/ismaelrivera/Desktop/Carta Rosangela/bin/Dignidades esenciales _ Astrología online_2.html",
+		"/Users/ismaelrivera/Desktop/Carta Rosangela/bin/Dignidades esenciales _ Astrología online_2_files/bootstrap8.css",
+		"/Users/ismaelrivera/Sites/mysites/tumblr_ismaelrivera/<!--DANE DEHAAN theme by sukiii@tumblr : 18.09.201.html",
+		"/Users/ismaelrivera/Desktop/Carta Rosangela/untitled folder/Dignidades esenciales __ Astrología online..htm",
+		"/Users/ismaelrivera/Desktop/Carta Cinara/Carta Natal Cinara_files/bootstrap8.css",
+		"/Users/ismaelrivera/Desktop/Carta Cinara/Carta Natal Cinara.html",
+		"/Users/ismaelrivera/Desktop/view-source_atuavidanosastros.com_category_o-signo-gemeos-no-ascendente_TEXT.htm",
+		"/Users/ismaelrivera/Sites/mysites/awesomeblogger/public_html/wp-content/themes/vaquero/assets/sass/125ads.scss",
+		"/Users/ismaelrivera/Sites/mysites/awesomeblogger/public_html/wp-content/themes/vaquero/global/header.php",
+		"/Users/ismaelrivera/Sites/mysites/awesomeblogger/public_html/wp-content/themes/vaquero/global/html-header.php",
+		"/Users/ismaelrivera/Sites/mysites/awesomeblogger/public_html/wp-content/themes/vaquero/assets/sass/main.scss",
+		"/Users/ismaelrivera/Sites/mysites/awesomeblogger/public_html/wp-content/themes/vaquero/json/articles.php",
+		"/Users/ismaelrivera/Sites/mysites/awesomeblogger/public_html/wp-content/themes/vaquero/json/idea-bubble.php",
+		"/Users/ismaelrivera/Sites/mysites/awesomeblogger/public_html/wp-content/themes/vaquero/index.php",
+		"/Users/ismaelrivera/Sites/mysites/legend_portfolio/assets/js/hero.js",
+		"/Users/ismaelrivera/Desktop/Carta Vera Rosane/Dignidades_files/bootstrap8.css",
+		"/Users/ismaelrivera/Desktop/Carta Vera Rosane/Dignidades.html",
+		"/Users/ismaelrivera/Sites/mysites/legend_portfolio/assets/js/test.js",
+		"/Users/ismaelrivera/Sites/mysites/legend_portfolio/assets/js/site.js",
+		"/Users/ismaelrivera/Sites/clients.speggo/mobstar/mobstar_wp_db.sql",
+		"/Users/ismaelrivera/Games/Phaser_html5/derby-clickmasters/ts/app.ts",
+		"/Users/ismaelrivera/Desktop/CARTA NATAL DE SILVIA.html",
+		"/Users/ismaelrivera/Games/Phaser_html5/derby-clickmasters/index.html",
+		"/Users/ismaelrivera/Desktop/CARTA NATAL DE SILVIA_bckp.html",
+		"/Users/ismaelrivera/Desktop/CARTA NATAL DE SILVIA_files/bootstrap8.css",
+		"/Users/ismaelrivera/Games/Phaser_html5/derby-clickmasters/app.js",
+		"/Users/ismaelrivera/Games/Phaser_html5/phaser-html5-gamestarter-kit/LICENSE",
+		"/Users/ismaelrivera/Games/Phaser_html5/phaser-html5-gamestarter-kit/package.json",
+		"/Users/ismaelrivera/Games/Phaser_html5/phaser-html5-gamestarter-kit/ts/app.ts",
+		"/Users/ismaelrivera/Games/Phaser_html5/phaser-html5-gamestarter-kit/index.html",
+		"/Users/ismaelrivera/Sites/mysites/reactjs_template/assets/js/scripts.js",
+		"/Users/ismaelrivera/Sites/mysites/reactjs_template/assets/com/scripts.min.js",
+		"/Users/ismaelrivera/Sites/mysites/reactjs_template/assets/js/module1.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"btn",
+			"daemon",
+			"Virtual",
+			"cursor",
+			"gemeo",
+			"catalo",
+			"localhost23",
+			"localhost11",
+			"localhost",
+			"clic",
+			"hori",
+			"dashed",
+			"font-family",
+			"font-familt",
+			"font",
+			"roboto",
+			"catalog",
+			"top",
+			"idea",
+			"relative",
+			"menu",
+			"session",
+			"color",
+			"item-title-link",
+			"workspace",
+			"#FFFFFF",
+			"assets/images/",
+			"images/",
+			"http://localhost",
+			"http://localhost1",
+			"http://localhost",
+			"http://localhost1",
+			"localhost",
+			"li",
+			".grid",
+			"grid",
+			"image",
+			"lead",
+			"footer",
+			"mobi-header",
+			"bgmain",
+			"trigger",
+			"thumbnail",
+			"numberGreaterThan50",
+			"number",
+			"demo",
+			"parent",
+			"toFixed",
+			"progress",
+			"pin",
+			"$bootstrap-sass-asset-helper",
+			"site_wrapper",
+			"font",
+			"site_wrapper",
+			"jquery",
+			"font-size-base",
+			"body {",
+			"body{",
+			"body",
+			"\"body\"",
+			"body",
+			"font",
+			"csspring_spacer",
+			"font",
+			"home",
+			"info",
+			"grid",
+			"wrapper",
+			"main",
+			"opt",
+			"bootstrap-sass-asset-helper",
+			"icon-font-path",
+			"spacer",
+			"red",
+			"element",
+			"box1",
+			"pin",
+			"spacer",
+			"trigger",
+			"three",
+			"overflow-y",
+			"}",
+			"{",
+			"expose_docker_tcp",
+			"\"seo_url\": \"*\"",
+			") ",
+			".png",
+			".icon-social-icons-facebook-32x32",
+			"img",
+			"home",
+			"#content_wrapper_home",
+			"grid",
+			"left",
+			"widget-title",
+			"blog",
+			"txt",
+			"date",
+			"scrollbar",
+			"timeline_container",
+			"background-image",
+			"mkdir ",
+			"font-size",
+			"scrollbar",
+			"track",
+			"home_index",
+			"letterpress",
+			"text-shadow",
+			"color",
+			"navicon",
+			"../img",
+			"../img/prettyPhoto",
+			"../",
+			"spritesheet3",
+			"spritesheet",
+			"indigo-gray",
+			"#3E4153",
+			"hover",
+			"png",
+			"spritesheet",
+			"bg-blue",
+			"spritesheet",
+			"blue-grain",
+			"#00618F",
+			"#banner-search",
+			"banner",
+			"blue_grain",
+			"eee",
+			"#banner"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"footer-col-link",
+			"localhost23",
+			"#000000",
+			"assets/img/",
+			"assets/images/",
+			"http://localhost",
+			"article",
+			"hero",
+			"csspring_spacer10",
+			"]",
+			"[",
+			"",
+			"#{$timlin}",
+			"#{$pp-img}",
+			"gray",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 65.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/ismaelrivera/Sites/testing.speggo/moacybarros/wp-content/themes/moacy-barros/ui/sass/sass.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 423.0,
+	"status_bar_visible": true
+}
