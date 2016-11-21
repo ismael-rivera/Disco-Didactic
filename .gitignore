@@ -5,3 +5,5 @@
 *.tiff
 *.psd
 lightslider-master/
+*.sublime-project
+*.sublime-workspace
