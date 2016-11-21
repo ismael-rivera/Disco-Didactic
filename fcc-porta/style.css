@@ -9,7 +9,7 @@
       color: #111;
   }
   .container {
-      padding: 80px 120px;
+      padding: 20px;
   }
   .person {
       border: 10px solid transparent;
@@ -23,7 +23,7 @@
   }
   .carousel-inner img {
       -webkit-filter: grayscale(90%);
-      filter: grayscale(90%); /* make all photos black and white */
+      filter: grayscale(50%); /* make all photos black and white */
       width: 100%; /* Set width to 100% */
       margin: auto;
   }
@@ -138,3 +138,27 @@
   textarea {
       resize: none;
   }
+  .tech{
+    display: inline-block;
+    width: 100%;
+    height: 120px;
+    border: 1px solid #ebebeb;
+  }
+  #tech-1{}
+  #tech-2{}
+  #tech-3{}
+  #tech-4{}
+  #tech-5{}
+  #tech-6{}
+  #tech-7{}
+  #tech-8{}
+  #tech-9{}
+  #tech-10{}
+  #tech-11{}
+  #tech-12{}
+
+
+
+
+
+
