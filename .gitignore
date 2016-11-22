@@ -4,6 +4,7 @@
 *.zip
 *.tiff
 *.psd
+node_modules/
 lightslider-master/
 *.sublime-project
 *.sublime-workspace
