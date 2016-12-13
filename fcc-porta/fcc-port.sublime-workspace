@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"borde",
+				"border"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
 				"list-",
 				"list-style-type"
 			],
@@ -144,10 +152,6 @@
 				"background-color"
 			],
 			[
-				"blo",
-				"block"
-			],
-			[
 				"content",
 				"content-services"
 			],
@@ -267,13 +271,6 @@
 	},
 	"buffers":
 	[
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -323,6 +320,14 @@
 	},
 	"file_history":
 	[
+		"/Users/ismaelrivera/Sites/mysites/Disco-Didactic/fcc-porta/style.css",
+		"/Users/ismaelrivera/Sites/mysites/Disco-Didactic/fcc-porta/index.html",
+		"/Users/ismaelrivera/Desktop/install.sh",
+		"/Users/ismaelrivera/Sites/mysites/Disco-Didactic/fcc-porta/Gruntfile.js",
+		"/Users/ismaelrivera/Sites/mysites/Disco-Didactic/fcc-porta/config.rb",
+		"/Users/ismaelrivera/Sites/mysites/Disco-Didactic/fcc-porta/js.js",
+		"/Users/ismaelrivera/Sites/mysites/Disco-Didactic/fcc-porta/lightslider.js",
+		"/Users/ismaelrivera/Sites/mysites/Disco-Didactic/fcc-porta/lightslider.css",
 		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/Vagrantfile",
 		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/html/index.nginx-debian.html",
 		"/Users/ismaelrivera/Sites/mysites/jobbyjobz/project-manati/provision.sh",
@@ -442,19 +447,11 @@
 		"/Users/ismaelrivera/Desktop/CARTA NATAL DE SILVIA.html",
 		"/Users/ismaelrivera/Games/Phaser_html5/derby-clickmasters/index.html",
 		"/Users/ismaelrivera/Desktop/CARTA NATAL DE SILVIA_bckp.html",
-		"/Users/ismaelrivera/Desktop/CARTA NATAL DE SILVIA_files/bootstrap8.css",
-		"/Users/ismaelrivera/Games/Phaser_html5/derby-clickmasters/app.js",
-		"/Users/ismaelrivera/Games/Phaser_html5/phaser-html5-gamestarter-kit/LICENSE",
-		"/Users/ismaelrivera/Games/Phaser_html5/phaser-html5-gamestarter-kit/package.json",
-		"/Users/ismaelrivera/Games/Phaser_html5/phaser-html5-gamestarter-kit/ts/app.ts",
-		"/Users/ismaelrivera/Games/Phaser_html5/phaser-html5-gamestarter-kit/index.html",
-		"/Users/ismaelrivera/Sites/mysites/reactjs_template/assets/js/scripts.js",
-		"/Users/ismaelrivera/Sites/mysites/reactjs_template/assets/com/scripts.min.js",
-		"/Users/ismaelrivera/Sites/mysites/reactjs_template/assets/js/module1.js"
+		"/Users/ismaelrivera/Desktop/CARTA NATAL DE SILVIA_files/bootstrap8.css"
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 56.0
 	},
 	"find_in_files":
 	{
@@ -469,6 +466,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"thumbnail",
+			"active",
+			"<p class=\"text-center\"><strong>Name</strong></p><br>",
 			"btn",
 			"daemon",
 			"Virtual",
@@ -593,10 +593,7 @@
 			"blue-grain",
 			"#00618F",
 			"#banner-search",
-			"banner",
-			"blue_grain",
-			"eee",
-			"#banner"
+			"banner"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -604,6 +601,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"",
 			"footer-col-link",
 			"localhost23",
 			"#000000",
@@ -630,34 +628,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -721,6 +693,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 423.0,
+	"side_bar_width": 210.0,
 	"status_bar_visible": true
 }

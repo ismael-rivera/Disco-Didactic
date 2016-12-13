@@ -33,11 +33,17 @@
   .bg-1 h3 {color: #fff;}
   .bg-1 p {font-style: italic;}
   
+  #whoami{
+    padding-top: 70px;
+  }
+
   #mwork{
     padding-top: 40px;
     padding-bottom: 60px;
   }
-  
+  #contact{
+    padding-top: 70px;
+  }
   a.thumbnail-mwork{
     border: 1px solid #ebebeb;
     display: block;
